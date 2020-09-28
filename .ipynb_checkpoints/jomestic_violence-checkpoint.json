@@ -1,0 +1,60 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":2,
+    "params":{
+      "q":"headline:domestic violence"}},
+  "response":{"numFound":6,"start":0,"numFoundExact":true,"docs":[
+      {
+        "category":["WORLD NEWS"],
+        "headline":["Reducing Domestic Violence Helps All Of Haiti"],
+        "authors":["Bjorn Lomborg, ContributorBjorn Lomborg is director of the Copenhagen Consensus Center, ..."],
+        "link":["https://www.huffingtonpost.com/entry/reducing-domestic-violence-helps-all-of-haiti_us_595269c2e4b0c85b96c65caf"],
+        "short_description":["Domestic violence is a human rights issue, a public health issue and an economic development issue."],
+        "date":["2017-06-27T00:00:00Z"],
+        "id":"60aa9b12-a950-4615-b34f-c6856fe60eba",
+        "_version_":1679048252082618369},
+      {
+        "category":["CRIME"],
+        "headline":["'Glee' Star Naya Rivera Charged With Domestic Battery"],
+        "authors":["Mary Papenfuss"],
+        "link":["https://www.huffingtonpost.com/entry/naya-rivera-domestic-battery_us_5a1b97c3e4b0d4906cafad2c"],
+        "short_description":["Husband Ryan Dorsey says she struck him on the lip and head."],
+        "date":["2017-11-27T00:00:00Z"],
+        "id":"b8282325-cad1-4736-8493-4accd50905ed",
+        "_version_":1679048251906457603},
+      {
+        "category":["CRIME"],
+        "headline":["Texas Massacre Suspect Had Previous Domestic Violence Arrest"],
+        "authors":["Andy Campbell"],
+        "link":["https://www.huffingtonpost.com/entry/ron-lee-haskell-domestic-violence_n_5575662.html"],
+        "date":["2014-07-10T00:00:00Z"],
+        "id":"94ec9231-5e1f-4fbb-b829-f2229c366a43",
+        "_version_":1679048251933720577},
+      {
+        "category":["POLITICS"],
+        "headline":["Domestic Violence Still Not Grounds For Divorce In Mississippi"],
+        "authors":["Melissa Jeltsen"],
+        "link":["https://www.huffingtonpost.com/entry/domestic-violence-divorce-mississippi_us_58b75242e4b0284854b3dc96"],
+        "short_description":["A Republican lawmaker said a bill allowing domestic violence as a legal reason for divorce would open \"the floodgates.\""],
+        "date":["2017-03-02T00:00:00Z"],
+        "id":"dc6b2765-2811-47d3-8810-a1f06bf3e3f2",
+        "_version_":1679048252148678656},
+      {
+        "category":["SPORTS"],
+        "headline":["Rutgers Football Star Pleads Not Guilty To Domestic Violence Assault Charge"],
+        "link":["https://www.huffingtonpost.com/entry/rutgers-football-leonte-carroo-domestic-violence_us_55f9b178e4b0d6492d63f333"],
+        "short_description":["Authorities say he slammed a woman onto concrete after a football game."],
+        "date":["2015-09-16T00:00:00Z"],
+        "id":"1b0a6f24-0592-44c2-b401-170d743a9461",
+        "_version_":1679048252188524546},
+      {
+        "category":["SPORTS"],
+        "headline":["Male-Run Domestic Violence Group Apologizes For Telling ESPN Ray Rice Deserves Second Chance"],
+        "authors":["Maxwell Strachan"],
+        "link":["https://www.huffingtonpost.com/entry/a-call-to-men-espn-ray-rice_us_55ba8776e4b06363d5a175a1"],
+        "short_description":["\"We recognize and accept that male entitlement played a role in our decision.\""],
+        "date":["2015-07-30T00:00:00Z"],
+        "id":"2b49ae5d-50c3-4dd7-a3d7-55440332f6bb",
+        "_version_":1679048252189573124}]
+  }}
