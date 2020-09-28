@@ -1,0 +1,36 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":0,
+    "params":{
+      "q":"short_description:india"}},
+  "response":{"numFound":7,"start":0,"numFoundExact":true,"docs":[
+      {
+        "short_description":["Louis Gagnon journeyed to India to share the power of mindful leadership."],
+        "id":"0f0bd1de-292d-471f-9b0f-00e89919407f",
+        "_version_":1679085562994098177},
+      {
+        "short_description":["India and China are embroiled in a tense impasse over a territorial dispute in the Himalayas."],
+        "id":"82780a62-f619-4588-8db2-c5e5405e9dac",
+        "_version_":1679085562853589000},
+      {
+        "short_description":["Michelle Mielly, Grenoble École de Management (GEM) and Nandita Sood Perret Social marketing in India has become increasingly"],
+        "id":"7c562240-a2a9-4fc3-921d-4dcf53733021",
+        "_version_":1679085562874560515},
+      {
+        "short_description":["India deployed thousands of riot police and shut down internet services in two northern states in preparation for his sentencing."],
+        "id":"3afd9c96-7ba9-4122-9cfe-527cc9786d67",
+        "_version_":1679085562853589015},
+      {
+        "short_description":["O'Neill, who coined the term 'BRIC' in 2001 to describe how the economic clout of Brazil, Russia, India and China would challenge"],
+        "id":"61aa48ac-9616-402b-a82a-bc1fcf73614b",
+        "_version_":1679085562992001042},
+      {
+        "short_description":["Afroz Alam, Maulana Azad National Urdu University In India, if you are a Muslim man, you can divorce your wife via a simple"],
+        "id":"aedf081a-3789-4569-9525-bba1804d40e2",
+        "_version_":1679085562892386311},
+      {
+        "short_description":["By Angel Sharma China and India are gearing up for what could be a global showdown to test each other’s strength as the leading"],
+        "id":"3a5b02dd-5866-4cd3-9f9d-5c7337acb65c",
+        "_version_":1679085562876657696}]
+  }}

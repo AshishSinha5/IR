@@ -1,0 +1,48 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":0,
+    "params":{
+      "q":"short_description:North Korea"}},
+  "response":{"numFound":37,"start":0,"numFoundExact":true,"docs":[
+      {
+        "short_description":["The narrative about North Korea, a narrative I believe to be true and have since early March, is simple: The North Koreans"],
+        "id":"684ebf5b-43f7-479b-a98b-11eb2c1c462f",
+        "_version_":1679085562874560522},
+      {
+        "short_description":["North Korean officials called Trump's decision \"reckless\" and \"wicked.\""],
+        "id":"0cc743d1-9e91-4d65-a849-4a2f429db62b",
+        "_version_":1679085562882949128},
+      {
+        "short_description":["And the latest on Trump's comments on North Korea."],
+        "id":"26e07459-c64f-4927-8f44-48de19253838",
+        "_version_":1679085562942717968},
+      {
+        "short_description":["Tensions have been rising over North Korea’s nuclear and missile programs."],
+        "id":"50e65b27-6e05-4041-b115-95099cf68fbc",
+        "_version_":1679085562886094856},
+      {
+        "short_description":["The White House on Monday called the North Korean statements \"absurd.\""],
+        "id":"bc6ee453-1007-4994-b386-77802277e1ed",
+        "_version_":1679085562888192015},
+      {
+        "short_description":["Secretary of State Mike Pompeo departed North Korea with the three Americans."],
+        "id":"ddfb866a-d3bf-46bf-a767-21ede91470a9",
+        "_version_":1679085562870366225},
+      {
+        "short_description":["North Korea has at least 16 different missiles in various stages of development."],
+        "id":"19152192-4cad-45be-9aa6-b17cba9d126e",
+        "_version_":1679085562865123331},
+      {
+        "short_description":["The war of words between Trump and North Korea has continued to escalate."],
+        "id":"5455eece-7317-4a21-8970-d95659b4e1a1",
+        "_version_":1679085562867220492},
+      {
+        "short_description":["\"Apple’s North Star hasn’t changed,\" the company's CEO wrote to U.S. employees Wednesday."],
+        "id":"491a1e88-eefa-4331-9125-de080e7ce3ce",
+        "_version_":1679085562974175244},
+      {
+        "short_description":["The visit is aimed at encouraging North Korea and the United States to talk."],
+        "id":"5528a3e0-2663-406e-9a2e-037a16bc2bc2",
+        "_version_":1679085562854637584}]
+  }}

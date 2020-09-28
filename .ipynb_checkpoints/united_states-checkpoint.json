@@ -1,0 +1,48 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":0,
+    "params":{
+      "q":"*:*"}},
+  "response":{"numFound":4372,"start":0,"numFoundExact":true,"docs":[
+      {
+        "short_description":["A gamer was also wounded in the gunfight in a Las Vegas park, police say."],
+        "id":"0f052289-9a08-479f-96b5-8f07412b6bd1",
+        "_version_":1679080663735599104},
+      {
+        "short_description":["The two separate indictments come amid tension over police conduct in Ohio, where a teen with a pellet gun was killed by an officer."],
+        "id":"b2e79d1a-61e1-4485-bad7-99fc9a93a532",
+        "_version_":1679080663737696256},
+      {
+        "short_description":["The contention that Harpersville and JCS sent the indigent to a so-called debtors prison is untrue, Egan said to HuffPost"],
+        "id":"d10c0d3e-fcaf-4243-887c-bf7ba4959684",
+        "_version_":1679080663737696257},
+      {
+        "short_description":["The city won't turn over records about the bizarre incident."],
+        "id":"7fd1a61a-45a2-4b26-8b40-ad678cc6c7f9",
+        "_version_":1679080663737696258},
+      {
+        "short_description":["Robinson said he is concerned by the violence. He said the teens robbed him and recorded video of the attack as they beat"],
+        "id":"9335df3f-940d-4161-aeca-664d73d729de",
+        "_version_":1679080663737696259},
+      {
+        "short_description":["\"Supposedly he took her into another area using his official position, being in uniform, and she thought it was a part of his official duty,\" an airport spokesman said."],
+        "id":"f694e80f-20bc-4553-9441-9cf9d1c52986",
+        "_version_":1679080663737696260},
+      {
+        "short_description":["COLUMBUS, Ohio (AP) — A white Cleveland police officer was justified in fatally shooting a black 12-year-old boy holding"],
+        "id":"0269657d-da87-4812-bad5-5b9d8bbf63e7",
+        "_version_":1679080663737696261},
+      {
+        "short_description":["Both victims told police that Fletcher texted them naked and half-clothed photos of herself, and often performed oral sex"],
+        "id":"aa876316-e423-4a56-9698-a6178a39618d",
+        "_version_":1679080663737696262},
+      {
+        "short_description":["More than 600 people have been shot in the city this year."],
+        "id":"30dcfbc9-56d1-4db4-a32c-c1ff7c6362cc",
+        "_version_":1679080663737696263},
+      {
+        "short_description":["Gomez's grandfather, Jerry Carpenter, told the station that Gomez was recently released from juvenile detention. He said"],
+        "id":"5e81beec-f14f-4aec-96bb-3e6177980f5e",
+        "_version_":1679080663737696264}]
+  }}

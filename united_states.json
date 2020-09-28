@@ -1,0 +1,48 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":1,
+    "params":{
+      "q":"short_description: united states"}},
+  "response":{"numFound":47,"start":0,"numFoundExact":true,"docs":[
+      {
+        "short_description":["\"It's very interesting how everybody has united here.\""],
+        "id":"10837b3c-997c-422c-bda5-beee5b8ff7b5",
+        "_version_":1679080663836262412},
+      {
+        "short_description":["For 150 years, since the Emancipation Proclamation freed slaves in Confederate states, we have relied upon the conveniences of selective memory and mythmaking to imagine a more united, United States."],
+        "id":"756fb41b-b465-43f7-bed3-c8aa9f96ea42",
+        "_version_":1679080663875059712},
+      {
+        "short_description":["The visit is aimed at encouraging North Korea and the United States to talk."],
+        "id":"2d09ca33-24b7-46b7-bd84-dbb3ce3a32f1",
+        "_version_":1679080663806902283},
+      {
+        "short_description":["China is moving swiftly with retaliatory action amid escalating trade tension with the United States."],
+        "id":"46d10718-14b3-41c6-8343-72439f502e4d",
+        "_version_":1679080663825776643},
+      {
+        "short_description":["The United Nations has ramped up sanctions against the reclusive country in response to missile tests."],
+        "id":"130c477b-b8d1-4d19-86f1-516ee997c522",
+        "_version_":1679080663828922381},
+      {
+        "short_description":["UNITED NATIONS – U.S. Ambassador Nikki Haley succeeded in getting another UN Security Council sanctions resolution adopted"],
+        "id":"47c9c363-ace8-409a-8c44-abba4f33292d",
+        "_version_":1679080663849893891},
+      {
+        "short_description":["The electoral college is vital to freedom in a republic the size of the United States."],
+        "id":"baa76af8-4416-4855-9c8f-410562158c04",
+        "_version_":1679080663907565587},
+      {
+        "short_description":["Since the beginning of the United States' economic decline in 2008, incidents of parents stealing children's identities is"],
+        "id":"bef39fc5-2236-4626-bc4a-e99fab39a97b",
+        "_version_":1679080663738744842},
+      {
+        "short_description":["Trump said Palestinians snubbed the United States by not meeting Vice President Mike Pence during a recent visit."],
+        "id":"0ff0b7f5-2594-49c0-8645-2a31aef50d7a",
+        "_version_":1679080663815290908},
+      {
+        "short_description":["The United Nations has documented shocking accounts of sexual violence, including gang rape, against Rohingya women and girls"],
+        "id":"898bf94b-cdd9-40ab-b678-a5f00cbca7e8",
+        "_version_":1679080663817388055}]
+  }}

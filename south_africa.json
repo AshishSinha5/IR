@@ -1,0 +1,48 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":0,
+    "params":{
+      "q":"short_description:South Africa"}},
+  "response":{"numFound":22,"start":0,"numFoundExact":true,"docs":[
+      {
+        "short_description":["Sabotage could hit rural areas and the South hardest."],
+        "id":"d7191dcd-3f49-4744-9a8d-982d6b12b452",
+        "_version_":1679085562936426512},
+      {
+        "short_description":["Trudeau used an Arabic greeting to commemorate the South Asian holiday."],
+        "id":"f0be3048-02a0-49cf-9451-a4df07eec173",
+        "_version_":1679085562878754828},
+      {
+        "short_description":["Authorities in South Korea are now investigating what happened to Lim Ji-hyun."],
+        "id":"7d5c1b58-279d-4042-97e4-d88996fe2103",
+        "_version_":1679085562878754817},
+      {
+        "short_description":["The South African activist spent decades standing up against racial segregation and discrimination."],
+        "id":"ea6900dc-3061-4750-9938-213e55af71f1",
+        "_version_":1679085562888192009},
+      {
+        "short_description":["It's historically been known as the most dangerous way to flee to South Korea."],
+        "id":"7b1d61b6-1557-4327-a243-97258d1133be",
+        "_version_":1679085562865123339},
+      {
+        "short_description":["“I am not worried about North Korea. At all,\" an American retiree in South Korea says."],
+        "id":"182fceb8-214a-4569-8981-74553be31005",
+        "_version_":1679085562860929046},
+      {
+        "short_description":["Officials said the South African city now has until April 16 when its water taps will run dry."],
+        "id":"4e2542f6-7897-4d60-9f7f-ce77a20525de",
+        "_version_":1679085562857783301},
+      {
+        "short_description":["The North’s Kim Jong-un has moved both America and the South into a new, less certain world."],
+        "id":"496fef32-7c7b-42fc-8a8a-bdf03ca5f1d6",
+        "_version_":1679085562888192027},
+      {
+        "short_description":["The unspeakable atrocities that are happening in South Sudan are unfathomable, not only because of the scope of savagery"],
+        "id":"3a494b7a-1091-426d-b788-fa4619d3331e",
+        "_version_":1679085562854637599},
+      {
+        "short_description":["A South Africa court resentenced Pistorius to over 13 years in prison for the 2013 murder of his girlfriend."],
+        "id":"a172830f-6796-45d3-88b5-a0d76e6a75ad",
+        "_version_":1679085562859880458}]
+  }}

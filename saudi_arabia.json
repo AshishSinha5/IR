@@ -1,0 +1,48 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":0,
+    "params":{
+      "q":"short_description:Saudi Arabia"}},
+  "response":{"numFound":22,"start":0,"numFoundExact":true,"docs":[
+      {
+        "short_description":["The Saudi Arabian Football Federation has apologized."],
+        "id":"e7741641-ee39-4817-88b3-d5912d2a86be",
+        "_version_":1679085562880851985},
+      {
+        "short_description":["Saudi Arabia’s long-awaited lifting of a ban on women’s driving, widely viewed as a symbol of Saudi misogyny, will likely"],
+        "id":"bfcd722e-0701-44fb-9124-9e2df57a8f9a",
+        "_version_":1679085562881900556},
+      {
+        "short_description":["In its words and its actions, Saudi Arabia nourishes the growing scourge of terrorism."],
+        "id":"b2ae6344-38aa-4853-9a48-3e1207c6061a",
+        "_version_":1679085562873511946},
+      {
+        "short_description":["The model shared a video of herself walking publicly in clothing against Saudi law."],
+        "id":"8f81576f-ebaf-4334-9f6d-c50cd43b9872",
+        "_version_":1679085562890289156},
+      {
+        "short_description":["The stakes for 31-year-old Prince Mohammed and Saudi Arabia’s ruling Al Saud family are high."],
+        "id":"65cd62b4-d4be-49a2-b623-bb0f5eabed64",
+        "_version_":1679085562854637578},
+      {
+        "short_description":["Incarcerated for almost two months in a gilded cage in Riyadh’s luxurious Ritz Carlton Hotel, Saudi billionaire businessman"],
+        "id":"f26709cb-27cc-45ad-8a73-18254fcf8775",
+        "_version_":1679085562870366210},
+      {
+        "short_description":["Saudi Crown Prince Mohammed bin Salman’s recent disavowal of the kingdom’s founding religious ideology had a master’s voice"],
+        "id":"9d4a33cd-12e3-47a7-8f87-cedf7ccbb4c2",
+        "_version_":1679085562897629185},
+      {
+        "short_description":["As Saudi Arabia reels from Crown Prince Mohammed bin Salman’s frontal assault on the kingdom’s elite, indications are that"],
+        "id":"f504a9f2-bd19-45fe-a26a-da3690be0fe7",
+        "_version_":1679085562873511950},
+      {
+        "short_description":["If Saudi Crown Prince Mohammed bin Salman’s chequered foreign policy track record is anything to go by, Iran could tempt"],
+        "id":"2e98a02d-a232-4501-87f5-5ccaeb4131d1",
+        "_version_":1679085562859880468},
+      {
+        "short_description":["In recent weeks, Saudi Arabia has become more assertive. It first imposed a total blockade on Yemen, despite claims that"],
+        "id":"2b428915-d808-48f9-90e2-14d39811bb08",
+        "_version_":1679085562860929030}]
+  }}
